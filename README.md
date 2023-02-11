@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irfan Hyder</h1>
 <h3 align="center">A passionate Economics and Statistical Data Analyst with R, Shiny Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/18Sjartef5JLhgAqR74xwhrZ0alSOOSfJ/view?usp=drivesdk">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhevodata.com%2Flearn%2Fr-in-data-science%2F&psig=AOvVaw03Bsq0a0GBK1RQMn0YbLcY&ust=1676180646642000&source=images&cd=vfe&ved=2ahUKEwjow7nR4Yz9AhWPricCHRJaCMUQr4kDegUIARCVAQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidersoe&label=Profile%20views&color=0e75b6&style=flat" alt="haidersoe" /> </p>
 
