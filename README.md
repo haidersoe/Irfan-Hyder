@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Irfan Hyder</h1>
-<h3 align="center">A passionate Economics and Statistical Data Analyst with R, Shiny Developer</h3>
+<h3 align="centre">A Passionate Machine learning expert, Shiny Developer, Economist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidersoe&label=Profile%20views&color=0e75b6&style=flat" alt="haidersoe" /> </p>
 
-- 🔭 I’m currently working on **World Bank Investment Project**
+- 🔭 I’m currently working on **Machine Learning and Neural Networks**
 
-- 🌱 I’m currently learning **Data Science, R Shiny**
-
-- 💬 Ask me about **Quantitative Analysis R Shiny Econometrics Statistics**
+- 💬 Ask me about **Machine Learning Data Science Econometrics Statistics**
 
 - 📫 How to reach me **haiderirfan311@gmail.com**
 
